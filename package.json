@@ -1,0 +1,18 @@
+{
+  "name": "code-challenge-backend-nodejs",
+  "version": "1.0.0",
+  "description": "Nike backend code test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "deoraanmol",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.2.1"
+  }
+}
+
